@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Who I am 🤔
+I am a current undergraduate student at the University of California, Merced, and anticipate graduating in 2026. My primary interest is in developing applications, specifically full-stack web development or mobile app development. 
+
+## Upcoming coursework 🎒
+Fall 2025 semester:
+- CSE107: Introduction to Digital Image Processing
+- CSE111: Database Systems
+- CSE162: Mobile Computing
+- ENGR065: Circuit Theory

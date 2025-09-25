@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Who I am 
-I am a current undergraduate student at the University of California, Merced, and anticipate graduating in 2026. My interest is in developing applications (whether software, full-stack, or mobile) for businesses in the entertainment and media industry. 
+I am a current undergraduate student at the University of California, Merced, and anticipate graduating in 2026. My interest lies in developing applications (software and full-stack mobile) for businesses in the entertainment and media industries. 
 
 ## Upcoming coursework (Fall Semester 2025)
 - CSE107: Introduction to Digital Image Processing

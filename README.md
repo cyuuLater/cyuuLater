@@ -1,4 +1,4 @@
-# Hi there 👋
+<!-- # Hi there 👋 -->
 
 <!--
 **cyuuLater/cyuuLater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Who I am 
+# Who I am 
 I am a current Computer Science and Engineering student at the University of California, Merced (graduating in 2026). I am interested in increasing user interactivity through developing full-stack or mobile applications for social media or entertainment businesses. 
 
-## Coursework (Fall 2025)
+# Coursework (Fall 2025)
 - CSE107: Introduction to Digital Image Processing
 - CSE111: Database Systems
 - CSE162: Mobile Computing

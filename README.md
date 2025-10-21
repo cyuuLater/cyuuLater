@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 I am a current Computer Science and Engineering student at the University of California, Merced (graduating in 2026). I am interested in increasing user interactivity through developing full-stack or mobile applications for social media or entertainment businesses. 
 
 ## Contact
-[Email](julianblasting@gmail.com) - [LinkedIn](https://www.linkedin.com/in/julian-olaviano/)
+- Email: julianblasting@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/julian-olaviano/
 
 ## Coursework (Fall 2025)
 - CSE107: Introduction to Digital Image Processing

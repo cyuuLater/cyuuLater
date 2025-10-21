@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋
-I am a current Computer Science and Engineering student at the University of California, Merced (graduating in 2026). I am interested in increasing user interactivity through developing full-stack or mobile applications for social media or entertainment businesses. 
+I am a Computer Science and Engineering student at the University of California, Merced (graduating in 2026). I am interested in increasing user interactivity through developing full-stack or mobile applications for social media or entertainment businesses. 
 
 ## Contact
 - Email: julianblasting@gmail.com 

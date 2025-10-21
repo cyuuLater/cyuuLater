@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Who I am 
 I am a current Computer Science and Engineering student at the University of California, Merced (graduating in 2026). I am interested in increasing user interactivity through developing full-stack or mobile applications for social media or entertainment businesses. 
 
-## Current coursework (Fall Semester 2025)
+## Coursework (Fall 2025)
 - CSE107: Introduction to Digital Image Processing
 - CSE111: Database Systems
 - CSE162: Mobile Computing

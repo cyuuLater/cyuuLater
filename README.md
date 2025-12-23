@@ -22,8 +22,7 @@ I am a Computer Science and Engineering student at the University of California,
 - **Email**: julianblasting@gmail.com 
 - **LinkedIn**: https://www.linkedin.com/in/julian-olaviano/
 
-## Coursework (Fall 2025)
-- CSE107: Introduction to Digital Image Processing
-- CSE111: Database Systems
-- CSE162: Mobile Computing
-- ENGR065: Circuit Theory
+## Spring 2026 Coursework
+- CSE120: Software Engineering
+- CSE150: Operating Systems
+- CSE188: Natural Language Processing

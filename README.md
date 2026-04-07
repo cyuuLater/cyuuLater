@@ -21,12 +21,12 @@ I am a fourth-year Computer Science and Engineering student at UC Merced, antici
 I also have a passion for tutoring and enjoy guiding others as a peer tutor in lower-division mathematics classes. Therefore, I also wish to expand my tutoring experiences to computer science education.
 
 
-## Contact
+# Contact
 - **Email**: julianblasting@gmail.com 
 - **LinkedIn**: https://www.linkedin.com/in/julian-olaviano/
 
 
-## Spring 2026 Coursework
+# Spring 2026 Coursework
 - CSE120: Software Engineering
 - CSE150: Operating Systems
 - CSE188: Natural Language Processing

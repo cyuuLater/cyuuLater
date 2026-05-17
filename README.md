@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋
-I am a soon-to-be graduate from UC Merced with a B.S. in Computer Science and Engineering. My current interests are in full-stack web development and software engineering, with a growing interest in data analytics and mobile development. 
+I am a UC Merced New Grad with a Bachelor's in Computer Science and Engineering. My current interests are in full-stack web development and software engineering, with a growing interest in data analytics and mobile development. 
 
 I also have a passion for tutoring and enjoy guiding others as a peer tutor in lower-division mathematics classes. Therefore, I also wish to expand my tutoring experiences to computer science education.
 
